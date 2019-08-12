@@ -2,7 +2,7 @@
   "images": [
     {
       "X-workz": [
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed1.jpg",
+
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/members1.jpg",
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/members2.jpg",
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/members3.jpg",
@@ -22,15 +22,18 @@
     },
     {
       "Placed": [
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch1.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch2.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch3.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch5.jpeg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch6.jpeg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch7.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch8.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch9.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch10.jpg"                              
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed1.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed13.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed10.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed2.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed14.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed3.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed4.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed5.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed6.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed7.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed8.jpg",
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed9.jpg"
       ]
     }
     
