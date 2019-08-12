@@ -2,6 +2,7 @@
   "images": [
     {
       "X-workz": [
+        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed1.jpg",
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/members1.jpg",
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/members2.jpg",
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/members3.jpg",
@@ -20,7 +21,7 @@
       ]
     },
     {
-      "Batches": [
+      "Placed": [
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch1.jpg",
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch2.jpg",
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/batch3.jpg",
