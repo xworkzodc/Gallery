@@ -34,28 +34,6 @@
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed8.jpg",
         "https://raw.githubusercontent.com/xworkzodc/Gallery/master/placed9.jpg"
       ]
-    },
-    {
-      "Reviews" : [
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/16.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/17.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/18.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/12.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/6.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/7.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/10.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/11.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/14.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/15.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/19.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/20.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/3.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/4.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/5.jpg",
-        "https://raw.githubusercontent.com/xworkzodc/Gallery/master/9.jpg"
-        
-      ]
-    }
-    
+    } 
   ]
 }
